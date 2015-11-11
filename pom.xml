@@ -125,10 +125,6 @@
         <repository>
             <id>maven-repository</id>
             <url>https://raw.github.com/Eitraz/maven-repository/master/</url>
-            <snapshots>
-                <enabled>true</enabled>
-                <updatePolicy>always</updatePolicy>
-            </snapshots>
         </repository>
     </repositories>
 
